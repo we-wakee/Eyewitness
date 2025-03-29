@@ -8,3 +8,4 @@ The "Eye Witness App" is a social welfare platform that allows users to report c
 ![Screenshot from 2025-03-29 20-15-20](https://github.com/user-attachments/assets/06e0b170-f48b-4955-9f45-390a56808ae6)
 ![Screenshot from 2025-03-29 20-15-46](https://github.com/user-attachments/assets/ae10466f-92a6-4dc1-800a-482692f3edb0)
 
+![Screenshot from 2025-03-29 20-17-19](https://github.com/user-attachments/assets/8e46e03e-1ba4-419f-93ff-b8acd148f6e3)
